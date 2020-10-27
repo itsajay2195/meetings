@@ -1,0 +1,12 @@
+{
+  "name": "my-meeto",
+  "displayName": "my-meeto",
+  "expo": {
+    "name": "my-meeto",
+    "slug": "my-meeto",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
